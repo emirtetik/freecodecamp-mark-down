@@ -1,0 +1,92 @@
+body{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+.container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 0 20px;
+  }
+  
+  .row {
+    flex-wrap: wrap;
+  }
+  
+  .col-md-6 {
+    flex-basis: 50%;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 30px;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+  }
+  li{
+    list-style: none;
+  }
+  
+  #preview {
+    border: 1px solid #000000;
+    padding: 10px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+  }
+  #preview img{
+    width: 400px;
+    height: 200px;
+  }
+
+  .toolbar {
+    width: 98.8%;
+    display: flex;
+    align-items: center;
+    background-color: #4aa3a3;
+    padding: 0.3rem;
+    border: 1px solid #1d2f2f;
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    font-family: Russo One;
+    font-size: 0.7rem;
+    color: black;
+    
+}
+.toolbar h1{
+     margin-left: 10px;
+}
+#preview pre {
+    display: block;
+    overflow: auto;
+    background: rgb(0, 0, 0);
+    padding: 5px;
+    line-height: 1.2;
+}
+#preview blockquote {
+    color: wheat;
+    padding-left: 5px;
+    margin-left: 25px;
+}
+
+#preview table {
+    border-collapse: collapse;
+    display: initial;
+
+}
+
+#preview td, #preview th {
+    border: 2px solid #224b4b;
+    padding-left: 5px;
+    padding-right: 5px;
+}
