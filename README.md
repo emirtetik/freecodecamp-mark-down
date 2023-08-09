@@ -11,9 +11,6 @@ Bu proje, kullanıcının Markdown formatındaki metni HTML'e dönüştüren bir
 - Kullanıcı dostu ve minimalist arayüz
 - Markdown sözdiziminin desteklenmesi
 
-## Ekran Görüntüleri
-
-![Anasayfa](screenshots/home.png)
 
 ## Kullanılan Teknolojiler
 
