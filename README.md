@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# Markdown Dönüştürücü Uygulaması
+
+![Markdown Dönüştürücü Uygulaması](public/markdown.png)
+
+Bu proje, kullanıcının Markdown formatındaki metni HTML'e dönüştüren bir web uygulamasını temsil eder. Bu projeyi geliştirirken React ve CSS kullanarak kullanıcı arayüzünü oluşturmayı amaçladım.
+
+## Özellikler
+
+- Markdown formatındaki metni HTML'e dönüştürme
+- Anlık dönüşüm ve sonuç görüntüleme
+- Kullanıcı dostu ve minimalist arayüz
+- Markdown sözdiziminin desteklenmesi
+
+## Ekran Görüntüleri
+
+![Anasayfa](screenshots/home.png)
+
+## Kullanılan Teknolojiler
+
+- **React**: Kullanıcı arayüzünün oluşturulmasında ve dinamik özelliklerin eklenmesinde kullanıldı.
+- **CSS**: Stillemelerin düzenlenmesi ve sayfa tasarımının oluşturulmasında kullanıldı.
+
+## Kullanım
+
+1. Proje sayfasına gidin: [Markdown Dönüştürücü Uygulaması](https://freecodecamp-mark-down.vercel.app/)
+2. Sol taraftaki Markdown metin alanına dönüştürmek istediğiniz metni girin.
+3. Sağ tarafta HTML çıktısını anlık olarak görüntüleyin.
+
+
+## Katkılar
+
+Bu proje, kişisel gelişim amacıyla oluşturulmuştur. Ancak, hatalar veya geliştirmeler hakkında önerilerde bulunmak isterseniz, çekme istekleri (pull request) açabilirsiniz.
+
+## Lisans
+
+Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
